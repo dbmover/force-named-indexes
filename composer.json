@@ -1,0 +1,13 @@
+{
+    "name": "dbmover/force-named-indexes",
+    "description": "Dbmover plugin to force the use of named indexes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marijn Ophorst",
+            "email": "marijn@monomelodies.nl"
+        }
+    ],
+    "require": {}
+}
